@@ -29,7 +29,7 @@ This project demonstrates a simple chatbot system that uses a Large Language Mod
 - *"Does Nvidia show signs of growth based on recent news?"*
 - Compare LLM-only answers vs. RAG-augmented answers.
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.8+
 - `openai`
