@@ -7,6 +7,8 @@ This project demonstrates a simple chatbot system that uses a Large Language Mod
 - stock-specific context
 - semantic-search based context (this is classic "RAG")
 
+This project could be used, for example, by an investor looking for potential entries into a set of stocks based on factors driving stock fundamentals (as reflected in recent news). Extensions to other information sources, such as social media feeds, is also easy in this framework.
+
 ## What It Does
 
 - Accepts a list of stock tickers (e.g., TSLA, NVDA).
