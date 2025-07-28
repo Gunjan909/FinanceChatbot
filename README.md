@@ -2,7 +2,10 @@
 
 # LLM + RAG for Stock News Analysis
 
-This project demonstrates a simple chatbot system that uses a Large Language Model (LLM) enhanced with Retrieval-Augmented Generation (RAG) to answer stock-related questions based on recent news.
+This project demonstrates a simple chatbot system that uses a Large Language Model (LLM) enhanced with Retrieval-Augmented Generation (RAG) to answer stock-related questions based on recent news.It can be easily extended to much more complicated workflows.  The core idea is to design and qualitatively assess the replies of an LLM to queries about near-term stock performance, when the LLM is
+i) prompted with no context
+ii) prompted iwth explicit, stock-specific context
+iii) prompted with semantic-search based context (this is classic "RAG")
 
 ## What It Does
 
